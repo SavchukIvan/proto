@@ -1,1 +1,1 @@
-worker: proto.py
+worker: python proto.py $PORT
