@@ -1,0 +1,2 @@
+TOKEN = '1131593893:AAE1DvZ9yWxRVPZEyu7gjeX3WjPmCh__sCo'
+APP_NAME = 'protobot'
