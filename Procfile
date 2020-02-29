@@ -1,1 +1,1 @@
-web: gunicorn run_server:server
+worker: proto.py
